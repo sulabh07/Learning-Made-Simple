@@ -1,2 +1,2 @@
 # Data_Science_learning
-This repository is made by ne to help people learn Data Science.
+This repository is made by me to help people learn Data Science.
